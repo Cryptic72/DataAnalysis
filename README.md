@@ -1,2 +1,2 @@
-# DataCleaning
-Repository for data cleaning files made in Jupyter notebook.
+# Data Analysis
+Repository for various personal projects involving data analysis.
