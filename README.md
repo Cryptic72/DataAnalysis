@@ -1,2 +1,2 @@
 # Data Analysis
-Repository for various personal projects involving data analysis.
+Repository for various personal projects involving data analysis/science.
