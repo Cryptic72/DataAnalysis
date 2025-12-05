@@ -1,1 +1,1 @@
-Repository for various personal projects involving data analysis/science.
+Repository for various personal projects involving data analysis.
